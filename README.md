@@ -108,19 +108,8 @@ Supports keyboard-driven file navigation, copy, move, rename, delete operations,
 
 ---
 
-## GitHub Snapshot
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shush-collab&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shush-collab&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Building useful AI systems, not just demos.
+### I bring random stuff to life :).
 
 </div>
