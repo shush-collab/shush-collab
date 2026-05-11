@@ -7,7 +7,6 @@
 I build AI systems, low-level automation tools, computer vision pipelines, and BCI-adjacent prototypes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shush--collab-181717?style=for-the-badge&logo=github)](https://github.com/shush-collab)
-[![Website](https://img.shields.io/badge/Website-neurema.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurema.com)
 [![Focus](https://img.shields.io/badge/Building-Neurotech%20%26%20AI-7C3AED?style=for-the-badge)](#)
 
 </div>
